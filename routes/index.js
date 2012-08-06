@@ -3,7 +3,7 @@
  * GET home page.
  */
 
-var brand = 'George Thomas';
+var brand = 'GT';
 
 exports.index = function(req, res){
   res.redirect('/home');
